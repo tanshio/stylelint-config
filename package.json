@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "eslint": "^3.16.1",
+    "stylelint": "^7.9.0"
+  },
+  "scripts": {
+    "test": "ava -v"
+  }
+}
