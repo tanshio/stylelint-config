@@ -1,0 +1,2 @@
+# stylelint-config
+oreore-stylelint
