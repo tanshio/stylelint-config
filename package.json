@@ -1,13 +1,14 @@
 {
 	"author": "tanshio",
   "name": "@tanshio/stylelint-config",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "tanshio-stylelint",
   "keywords": [
     "css",
     "stylelint"
   ],
   "homepage": "https://github.com/tanshio/stylelint-config",
+  "repository": "https://github.com/tanshio/stylelint-config",
   "license": "MIT",
   "main": "index.js",
   "devDependencies": {
